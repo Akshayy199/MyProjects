@@ -1,3 +1,6 @@
+Rem Tic Tac Toe
+rem Akshay More
+rem 22-06-2022
 declare BBjAPI api!
 declare BBjSysGui sysgui!
 declare BBjTopLevelWindow wnd!          
